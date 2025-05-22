@@ -13,32 +13,7 @@ You can create, view, edit, and delete chat messages between users.
 - Delete chats
 - Simple, clean UI with EJS and CSS
 
-## Setup Instructions
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/whatsapp-chat-clone.git
-   cd whatsapp-chat-clone
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start MongoDB**
-   - Make sure MongoDB is running locally on `mongodb://127.0.0.1:27017/whatsapp`.
-
-4. **Seed the database (optional)**
-   ```bash
-   node init.js
-   ```
-
-5. **Start the server**
-   ```bash
-   node index.js
-   ```
-   The app will run at [http://localhost:8080](http://localhost:8080).
 
 ## Project Structure
 
